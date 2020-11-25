@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[ru]=gksu
+Name[ru]=ADS RUN
+Exec=sudo java -jar "/media/Disk_D/Development/Projects/JAVA/AutoDownloaderServer/AutoDownloaderServer.jar"
+Name=AutoDownloaderServer Run
+Icon=gksu
+GenericName[ru]=Run auto downloader server

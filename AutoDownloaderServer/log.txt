@@ -1,0 +1,192 @@
+Fri May 27 19:23:02 NOVT 2016 |/DEBUG\| LOADED
+
+Fri May 27 19:26:50 NOVT 2016 |/DEBUG\| LOADED
+
+Tue May 31 16:51:45 NOVT 2016 |/DEBUG\| LOADED
+
+Sat Aug 27 21:00:00 ICT 2016 |/DEBUG\| LOADED
+
+Sat Aug 27 21:01:55 ICT 2016 |/DEBUG\| LOADED
+
+Sun Aug 28 00:42:39 ICT 2016 |/DEBUG\| LOADED
+
+Sun Aug 28 20:47:08 ICT 2016 |/DEBUG\| LOADED
+
+Sat Sep 10 23:00:37 ICT 2016 |/DEBUG\| LOADED
+
+Wed Sep 28 13:51:04 ICT 2016 |/DEBUG\| LOADED
+
+Sat Oct 01 15:04:00 ICT 2016 |/DEBUG\| LOADED
+
+Sun Oct 02 22:11:19 ICT 2016 |/DEBUG\| LOADED
+
+Sat Oct 22 21:48:49 ICT 2016 |/DEBUG\| LOADED
+
+Sun Oct 23 14:16:37 ICT 2016 |/DEBUG\| LOADED
+
+Sun Oct 23 16:24:46 ICT 2016 |/DEBUG\| LOADED
+
+Mon Oct 24 19:29:00 ICT 2016 |/DEBUG\| LOADED
+
+Mon Oct 24 19:33:22 ICT 2016 |/DEBUG\| LOADED
+
+Mon Oct 24 19:42:35 ICT 2016 |/DEBUG\| LOADED
+
+Mon Oct 24 19:43:17 ICT 2016 |/DEBUG\| LOADED
+
+Mon Oct 24 19:48:16 ICT 2016 |/DEBUG\| LOADED
+
+Mon Oct 24 19:56:48 ICT 2016 |/DEBUG\| LOADED
+
+Mon Oct 24 20:39:47 ICT 2016 |/DEBUG\| LOADED
+
+Mon Oct 24 20:43:01 ICT 2016 |/DEBUG\| LOADED
+
+Mon Oct 24 20:44:28 ICT 2016 |/DEBUG\| LOADED
+
+Mon Oct 24 20:51:21 ICT 2016 |/DEBUG\| LOADED
+
+Mon Oct 24 20:52:49 ICT 2016 |/DEBUG\| LOADED
+
+Thu Nov 03 14:23:24 ICT 2016 |/DEBUG\| LOADED
+
+Fri Nov 04 23:39:46 ICT 2016 |/DEBUG\| LOADED
+
+Sat Nov 05 14:39:16 ICT 2016 |/DEBUG\| LOADED
+
+Sat Nov 05 14:43:05 ICT 2016 |/DEBUG\| LOADED
+
+Sat Nov 05 14:47:23 ICT 2016 |/DEBUG\| LOADED
+
+Sat Nov 05 14:50:22 ICT 2016 |/DEBUG\| LOADED
+
+Sun Nov 06 17:38:19 ICT 2016 |/DEBUG\| LOADED
+
+Tue Nov 15 14:49:33 ICT 2016 |/DEBUG\| LOADED
+
+Wed Nov 30 18:47:29 ICT 2016 |/DEBUG\| LOADED
+
+Wed Nov 30 18:47:40 ICT 2016 |/DEBUG\| LOADED
+
+Sat Dec 10 15:22:27 ICT 2016 |/DEBUG\| LOADED
+
+Fri Dec 23 22:01:15 ICT 2016 |/DEBUG\| LOADED
+
+Wed Jan 11 12:48:38 ICT 2017 |/DEBUG\| LOADED
+
+Wed Jan 11 12:49:57 ICT 2017 |/DEBUG\| LOADED
+
+Wed Jan 11 12:50:12 ICT 2017 |/DEBUG\| LOADED
+
+Wed Jan 11 12:51:19 ICT 2017 |/DEBUG\| LOADED
+
+Wed Jan 11 12:55:43 ICT 2017 |/DEBUG\| LOADED
+
+Wed Jan 11 12:57:19 ICT 2017 |/DEBUG\| LOADED
+
+Wed Jan 11 12:57:40 ICT 2017 |/DEBUG\| LOADED
+
+Wed Jan 11 12:58:03 ICT 2017 |/DEBUG\| LOADED
+
+Wed Jan 11 12:58:20 ICT 2017 |/DEBUG\| LOADED
+
+Wed Jan 11 12:58:30 ICT 2017 |/DEBUG\| LOADED
+
+Wed Jan 11 15:58:55 ICT 2017 |/DEBUG\| LOADED
+
+Wed Jan 11 20:10:42 ICT 2017 |/DEBUG\| LOADED
+
+Wed Jan 11 20:11:11 ICT 2017 |/DEBUG\| LOADED
+
+Thu Jan 12 22:47:58 ICT 2017 |/DEBUG\| LOADED
+
+Fri Jan 13 20:52:45 ICT 2017 |/DEBUG\| LOADED
+
+Sun Jan 15 23:01:17 ICT 2017 |/DEBUG\| LOADED
+
+Fri Jan 20 21:32:20 ICT 2017 |/DEBUG\| LOADED
+
+Fri Feb 10 20:14:55 ICT 2017 |/DEBUG\| LOADED
+
+Sun Mar 12 19:15:57 NOVT 2017 |/DEBUG\| LOADED
+
+Sun Mar 12 19:15:58 NOVT 2017 |-ERROR-| Exception in DataServer constructor: java.net.BindException: Отказано в доступе (Bind failed)
+
+Sun Mar 12 19:15:58 NOVT 2017 |-ERROR-| File Server run() exception: java.lang.NullPointerException
+
+Sun Mar 12 19:15:58 NOVT 2017 |-ERROR-| Exception in DataServer in run() : java.lang.NullPointerException
+
+Sun Mar 12 19:16:25 NOVT 2017 |/DEBUG\| LOADED
+
+Sun Mar 12 19:16:25 NOVT 2017 |-ERROR-| Exception in DataServer constructor: java.net.BindException: Отказано в доступе (Bind failed)
+
+Sun Mar 12 19:16:25 NOVT 2017 |-ERROR-| Exception in DataServer in run() : java.lang.NullPointerException
+
+Sun Mar 12 19:16:25 NOVT 2017 |-ERROR-| File Server run() exception: java.lang.NullPointerException
+
+Sun Mar 12 19:27:55 NOVT 2017 |/DEBUG\| LOADED
+
+Sun Mar 12 19:27:55 NOVT 2017 |-ERROR-| Exception in DataServer constructor: java.net.BindException: Отказано в доступе (Bind failed)
+
+Sun Mar 12 19:27:55 NOVT 2017 |-ERROR-| File Server run() exception: java.lang.NullPointerException
+
+Sun Mar 12 19:27:55 NOVT 2017 |-ERROR-| Exception in DataServer in run() : java.lang.NullPointerException
+
+Sun Mar 12 18:29:16 NOVT 2017 |/DEBUG\| LOADED
+
+Sun Mar 12 18:29:16 NOVT 2017 |-ERROR-| Exception in DataServer constructor: java.net.BindException: Отказано в доступе
+
+Sun Mar 12 18:29:16 NOVT 2017 |-ERROR-| Exception in DataServer in run() : java.lang.NullPointerException
+
+Sun Mar 12 18:29:42 NOVT 2017 |/DEBUG\| LOADED
+
+Sun Mar 12 19:35:03 NOVT 2017 |/DEBUG\| LOADED
+
+Sun Mar 12 19:45:11 NOVT 2017 |/DEBUG\| LOADED
+
+Sun Mar 12 20:13:10 NOVT 2017 |/DEBUG\| LOADED
+
+Sun Mar 12 20:13:10 NOVT 2017 |-ERROR-| Exception in DataServer constructor: java.net.BindException: Отказано в доступе (Bind failed)
+
+Sun Mar 12 20:13:10 NOVT 2017 |-ERROR-| Exception in DataServer in run() : java.lang.NullPointerException
+
+Sun Mar 12 20:13:10 NOVT 2017 |-ERROR-| File Server run() exception: java.lang.NullPointerException
+
+Sun Mar 12 20:20:22 NOVT 2017 |/DEBUG\| LOADED
+
+Sun Mar 12 20:57:08 NOVT 2017 |/DEBUG\| LOADED
+
+Sun Mar 12 20:57:08 NOVT 2017 |-ERROR-| Exception in DataServer constructor: java.net.BindException: Отказано в доступе (Bind failed)
+
+Sun Mar 12 20:57:08 NOVT 2017 |-ERROR-| Exception in DataServer in run() : java.lang.NullPointerException
+
+Sun Mar 12 20:57:08 NOVT 2017 |-ERROR-| File Server run() exception: java.lang.NullPointerException
+
+Sun Mar 12 21:02:21 NOVT 2017 |/DEBUG\| LOADED
+
+Sun Mar 12 21:02:22 NOVT 2017 |-ERROR-| Exception in DataServer constructor: java.net.BindException: Отказано в доступе (Bind failed)
+
+Sun Mar 12 21:02:22 NOVT 2017 |-ERROR-| Exception in DataServer in run() : java.lang.NullPointerException
+
+Sun Mar 12 21:02:22 NOVT 2017 |-ERROR-| File Server run() exception: java.lang.NullPointerException
+
+Sun Mar 12 21:03:52 NOVT 2017 |/DEBUG\| LOADED
+
+Sun Mar 12 21:03:52 NOVT 2017 |-ERROR-| Exception in DataServer constructor: java.net.BindException: Отказано в доступе (Bind failed)
+
+Sun Mar 12 21:03:52 NOVT 2017 |-ERROR-| Exception in DataServer in run() : java.lang.NullPointerException
+
+Sun Mar 12 21:03:52 NOVT 2017 |-ERROR-| File Server run() exception: java.lang.NullPointerException
+
+Sun Mar 12 21:04:14 NOVT 2017 |/DEBUG\| LOADED
+
+Sun Mar 12 21:04:14 NOVT 2017 |-ERROR-| Exception in DataServer constructor: java.net.BindException: Отказано в доступе (Bind failed)
+
+Sun Mar 12 21:04:14 NOVT 2017 |-ERROR-| File Server run() exception: java.lang.NullPointerException
+
+Sun Mar 12 21:04:14 NOVT 2017 |-ERROR-| Exception in DataServer in run() : java.lang.NullPointerException
+
+Sun Mar 04 13:14:54 ICT 2018 |/DEBUG\| LOADED
+
+Mon Apr 02 21:55:24 ICT 2018 |/DEBUG\| LOADED
+
